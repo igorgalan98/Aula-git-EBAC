@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Igor
+-Profissão: Aluno 😎
+-Cidade: Aparecida do Taboado
+-O que faz nas horas vaga: Jogo
+-Feedback sobre o curso Qualidade de Software: Muito interessante aprendi muito até o momento
+-Feedback sobre a plataforma de estudo da EBAC: Não sei se tem mas gostaria da opção do modo escuro, de resto ela é muito bem feita.
 
 Obrigado!!!
 
